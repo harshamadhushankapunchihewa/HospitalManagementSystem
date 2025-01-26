@@ -1,0 +1,42 @@
+{
+    "items": [
+        {
+            "Name": "General Overview",
+            "Color": "#B21010",
+            "Image_Path": "patient.png",
+            "GoToPage": "page1.html"
+        },
+        {
+            "Name": "Camera Access",
+            "Color": "#3C6DA6",
+            "Image_Path": "camera.png",
+            "GoToPage": "page2.html"
+        },
+        {
+            "Name": "View Patients",
+            "Color": "#599D4E",
+            "Image_Path": "patient_bed.png",
+            "GoToPage": "page3.html"
+        },
+         {
+            "Name": "Add Patient",
+            "Color": "#D40467",
+            "Image_Path": "patient_bed.png",
+            "GoToPage": "page3.html"
+        },
+         {
+            "Name": "Alerts",
+            "Color": "#CE5D1D",
+            "Image_Path": "info.png",
+            "GoToPage": "page1.html"
+        },
+        {
+            "Name": "Logout",
+            "Color": "#2A2A2A",
+            "Image_Path": "logout.png",
+            "GoToPage": "page2.html"
+        }
+
+
+    ]
+}
